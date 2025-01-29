@@ -1,3 +1,4 @@
+// hashing
 #include<iostream>
 using namespace std;
  int hashh[10000000]={0};
